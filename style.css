@@ -1,0 +1,11 @@
+*{
+    background-color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    color:black;
+    font-size: 25px;
+}
+button{
+    background-color: lightblue;
+}
